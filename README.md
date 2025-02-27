@@ -24,4 +24,7 @@ In-person hackathons/build days for American college students.
 | Hack New Haven | West Haven, CT | March 22 - March 23 | https://hacknewhaven.newhaven.edu |
 | TidalHack | College Station, TX | March 22 - March 23 | https://tidaltamu.com |
 | RocketHacks | Toledo, OH | March 15 - March 16 | https://www.rockethacks.org |
-
+| Open Source AI Hackathon | Redmond, WA | March 15 | https://lu.ma/9bx3hw3v |
+| AI For Good Hackathon | San Francisco, CA | March 15 - March 16 | https://lu.ma/ai-for-good-hackathon |
+| Techstars Start Up Weekend | Atlanta, GA | February 28 | https://lu.ma/z2167txu |
+| HyperHouse | Denver, CO | February 28 | https://lu.ma/pmf-or-die |
