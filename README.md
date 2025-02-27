@@ -12,6 +12,7 @@ In-person hackathons/build days for American college students.
 | DiamondHacks | San Diego, CA | April 5 - April 6 | https://diamondhacks.acmucsd.com |
 | WildHacks | Evanston, IL | April 5 - April 6 | https://www.wildhacks.net |
 | WEHack | Dallas, TX | April 5 - April 6 | https://www.wehackutd.com |
+| MS Reactor Hackathon | Redmond, WA | April 5 | https://www.eventbrite.com/e/in-person-hackathon-ms-reactor-apr-5-2025-tickets-1217547038969 |
 | Hack KU | Lawrence, KS | April 4 - April 6 | https://www.hackku.org |
 | SF Hacks | San Francisco, CA | April 4 - April 6 | https://sfhacks.io |
 | Uncommon Hacks | Chicago, IL | March 29 - March 30 | https://uncommonhacks.com |
