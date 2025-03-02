@@ -27,6 +27,7 @@ In-person hackathons/build days for American college students.
 | RocketHacks | Toledo, OH | March 15 - March 16 | https://www.rockethacks.org |
 | Open Source AI Hackathon | Redmond, WA | March 15 | https://lu.ma/9bx3hw3v |
 | AI For Good Hackathon | San Francisco, CA | March 15 - March 16 | https://lu.ma/ai-for-good-hackathon |
+| AI For Good Hackathon | San Francisco, CA | March 9 | https://lu.ma/slx5t6ik |
 | SoS Hackathon | Berkeley, CA | March 8 - March 9 | https://hacksos-at-ucb.devpost.com/ |
 | Flare x Google Hackathon | Berkeley, CA | March 7 - March 9 | https://dorahacks.io/hackathon/flare-google-hackathon-irl/detail |
 | Techstars Start Up Weekend | Atlanta, GA | February 28 | https://lu.ma/z2167txu |
